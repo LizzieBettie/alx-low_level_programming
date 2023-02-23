@@ -1,3 +1,6 @@
+#include "main.h"
+
+
 /**
  * print_alphabet - entry point
  * Description: function that prints the alphabet, in lowercase,
@@ -18,4 +21,4 @@ void print_alphabet(void)
 	}
 	_putchar('\n');
 
-}
+
